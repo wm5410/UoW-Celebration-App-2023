@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".FunFactActivity">
+
+    <ImageView
+        android:id="@+id/factBg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="160dp"
+        android:src="@drawable/img_fun_fact_place_holder"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/imgBgDescription"
+        ></ImageView>
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/textView1"
+        android:contentDescription="@string/imgDescription"
+        android:scaleType="fitCenter"
+        android:src="@drawable/img_main_logo_short" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="500dp"
+        android:layout_height="150dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:padding="30dp"
+        android:text="@string/funFactText"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

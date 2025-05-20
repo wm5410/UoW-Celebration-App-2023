@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CMS</string>
+
+    <string name="enter">Enter</string>
+
+    <string name="title">Celebrating</string>
+
+    <string name="mainBody">50 Years of Computing at the University of Waikato</string>
+
+    <string name="imgDescription">Waikato Logo</string>
+    <string name="imgBgDescription">Background</string>
+
+    <string name="button1">Button</string>
+    <string name="button2">Button2</string>
+
+    <string name="secondactivityBody">This year the University of Waikato is celebrating 50 years of computing excellence. The Department of Computer Science at the University of Waikato was founded in 1973. In 2023 we celebrate our students, alumni, research, software and more.</string>
+
+    <string name="enterFact">Click here for a fun fact about Computing at Waikato</string>
+
+    <string name="funFactText">Fun Fact Place Holder Text</string>
+
+    <string name="funFact0">The Department of Computer Science was founded in 1973</string>
+    <string name="funFact1">The first computing courses were available in 1974</string>
+    <string name="funFact2">The School of Computing and Mathematical Sciences were founded in 1987</string>
+    <string name="funFact3">The first students to graduate with a Bachelor of Computing and Mathematical Sciences (BCMS) graduated in 1989</string>
+    <string name="funFact4">The official opening of G Block by Geoffery Palmer, Prime Minister of New Zealand, took place in 1990</string>
+    <string name="funFact5">R block opened in 1993</string>
+    <string name="funFact6">In 1993 we begun teaching computer science in te reo Maori with 0657.113 Nga Tautono Rorohiko</string>
+    <string name="funFact7">In 2003 Design joined the School of Computing Mathematical Sciences with the Bachelor of Computer Graphic Design (BCGD)</string>
+
+</resources>

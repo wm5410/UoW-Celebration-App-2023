@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_Main">#B2000000</color>
+    <color name="gold">#C49A6C</color>
+    <color name="dark_gold">#AD7B45</color>
+    <color name="silver">#F2F2F2</color>
+    <color name="dark_silver">#C2C2C2</color>
+    <color name="secondbgColor">#ffece5</color>
+</resources>
